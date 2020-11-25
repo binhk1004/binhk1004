@@ -10,4 +10,5 @@
  <p align="center">
     <img src=https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=&logoColor=white/>
     <img src=https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=&logoColor=white/>
+    <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white/>
  </p>
