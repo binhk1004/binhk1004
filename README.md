@@ -5,15 +5,14 @@
   개발이 너무 좋아서, 개발이 너무 즐거워서! </br>
   <br> 많이 돌고돌아 여기까지 오게된 '김빈현' 이라고 합니다! </br>
   <br> 아직은 부족한게 많지만 재밌게, 오래오래 개발하고 싶어요 </br>
-  <br></br>
+  <br>
 </p>
 
 <h1 align="center">❤️ I like..!?</h1>
-<p align="center">
-  <span style="font-size:50px">
+  <h2 align="center">
     🐈&nbsp;&nbsp; 🏔&nbsp;&nbsp; 🌊&nbsp;&nbsp; 💻&nbsp;&nbsp; ☕️&nbsp;&nbsp; 🍺&nbsp;&nbsp; 📚&nbsp;&nbsp;
-  </span>
-  <br></br>
+  </h2>
+  <br>
 </p>
 
 <h1 align="center">💻 Technolohy Stack</h1>
