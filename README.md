@@ -9,9 +9,9 @@
 </p>
 
 <h1 align="center">❤️ I like..!?</h1>
-  <h2 align="center">
-    🐈&nbsp;&nbsp; 🏔&nbsp;&nbsp; 🌊&nbsp;&nbsp; 💻&nbsp;&nbsp; ☕️&nbsp;&nbsp; 🍺&nbsp;&nbsp; 📚&nbsp;&nbsp;
-  </h2>
+  <p align="center" style="size:50px">
+    <img 🐈&nbsp;&nbsp; 🏔&nbsp;&nbsp; 🌊&nbsp;&nbsp; 💻&nbsp;&nbsp; ☕️&nbsp;&nbsp; 🍺&nbsp;&nbsp; 📚&nbsp;&nbsp;/>
+  </p>
   <br>
 </p>
 
