@@ -1,4 +1,4 @@
 💻 Technolohy Stack
 
 
-https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white
+https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white
