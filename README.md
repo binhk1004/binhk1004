@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=150&section=header&text=Hello%World!!&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=150&section=header&text=print("Hello%World!!")&fontSize=80)
 
 <h1 align="center">🧑🏻 Who am I?</h1>
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">❤️ I like..!?</h1>
-  <p align="center" style="size:50px">
+  <p align="center" style="font-size:200px">
     🐈&nbsp;&nbsp; 🏔&nbsp;&nbsp; 🌊&nbsp;&nbsp; 💻&nbsp;&nbsp; ☕️&nbsp;&nbsp; 🍺&nbsp;&nbsp; 📚&nbsp;&nbsp;
   </p>
   <br>
