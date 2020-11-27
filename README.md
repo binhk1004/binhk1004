@@ -9,7 +9,7 @@
 </p>
 
 <h1 align="center">❤️ I like..!?</h1>
-  <p align="center" style="font-size:200px">
+  <p align="center">
     🐈&nbsp;&nbsp; 🏔&nbsp;&nbsp; 🌊&nbsp;&nbsp; 💻&nbsp;&nbsp; ☕️&nbsp;&nbsp; 🍺&nbsp;&nbsp; 📚&nbsp;&nbsp;
   </p>
   <br>
