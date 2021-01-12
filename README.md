@@ -37,6 +37,7 @@
     <img src=https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=&logoColor=white/>
     <img src=https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=&logoColor=white/>
     <img src=https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=&logoColor=white/>
+    <img src=https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=&logoColor=white/>
     <br></br>
  </p>
 
