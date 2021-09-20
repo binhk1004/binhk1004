@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=A3DCBE&height=150&section=header&text=print("Hello%World!!")&fontSize=80)
+# 🤟반갑습니다! 김빈현 이라고 합니다! 
+
+[![binhk1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhk1004)](https://github.com/binhk1004/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=binhk1004)](https://github.com/binhk1004/github-readme-stats)
+
+
 
 
 <h1 align="center"> 🧑🏻 Who am I?</h1>
@@ -41,4 +46,3 @@
     <br></br>
  </p>
 
-[![binhk1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhk1004)](https://github.com/binhk1004/github-readme-stats)
