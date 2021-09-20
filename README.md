@@ -1,7 +1,7 @@
 # 🤟반갑습니다! 김빈현 이라고 합니다!                                                                                                                                              
 
-[![binhk1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhk1004&show_icons=true&count_private=true&line_height=24&theme=dracula&hide=stars)](https://github.com/binhk1004/github-readme-stats) <p></p>
-[![willianrod's wakatime stats](https://github-readme-stats-sand-six-91.vercel.app/api/wakatime?username=binhk1004&layout=compact&layout=compact&theme=dracula)](https://github.com/binhk1004/github-readme-stats)
+[![binhk1004's GitHub stats](https://github-readme-stats.vercel.app/api?username=binhk1004&show_icons=true&count_private=true&line_height=20&theme=great-gatsby&hide=stars)](https://github.com/binhk1004/github-readme-stats) <p></p>
+[![binhk1004's wakatime stats](https://github-readme-stats-sand-six-91.vercel.app/api/wakatime?username=binhk1004&show_icons=true&line_height=20&layout=compact&theme=great-gatsby)](https://github.com/binhk1004/github-readme-stats)
 <br></br>
 
 # 🧑🏻 Who am I?
