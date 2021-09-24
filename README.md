@@ -30,4 +30,3 @@
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=white"/></span>
 <br></br>
-
