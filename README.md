@@ -25,6 +25,7 @@
 # 🤓 I am Interesting.
 
 <span><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/></span>
+<span><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=Svelte&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Typescript-007ACC?style=flat&logo=Typescript&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/Go-00AED8?style=flat&logo=Go&logoColor=white"/></span>
 <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
